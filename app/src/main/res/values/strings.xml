@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalBottom</string>
+    <string name="color_lavender">\@color/lavender</string>
+    <string name="color_teal_700">\@color/teal_700</string>
+    <string name="color_purple_200">\@color/purple_200</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
